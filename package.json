@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --inline --mode development --open"
+    "start": "webpack-dev-server --inline --mode development --open",
+    "cy:open": "npm start & cypress open"
   },
   "keywords": [],
   "author": "",
