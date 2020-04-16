@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Craft Academy",
+    "link": "https://craftacademy.se/english/",
+    "image": "/dist/images/ca_slide_logo-01.png",
+    "description": "Fullstack Web Developer Bootcamp",
+    "time": "January 2019 - Current",
+    "title": "Student Success Specialist"
+  },
+  {
+    "id": 2,
+    "name": "Stark Industries",
+    "link": "https://www.marvel.com/comics/characters/1009368/iron_man",
+    "image": "/dist/images/Stark.jpg",
+    "description": "I had to baby sit the hulk",
+    "time": "September 2015 - July 2019",
+    "title": "Tonys right hand man "
+  }
+]
