@@ -8,6 +8,7 @@ import {Switch, Route } from "react-router-dom"
 import Projects from "./Projects"
 import About from "./About"
 import Cv from "./Cv";
+import Contact from "./Contact"
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
         <Route exact path="/about" component={About}></Route>
         <Route exact path="/cv" component={Cv}></Route>
         <Route exact path="/projects" component={Projects}></Route>
+        <Route exact path="/Contact" component={Contact}></Route>
       </Switch>
       <Footer />
     </>
